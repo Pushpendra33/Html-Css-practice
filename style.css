@@ -1,0 +1,16 @@
+body{
+    background-color:#cc55ee;
+}
+h2{
+    color: #0307fc;
+    background-color:rgb(151, 136, 0);
+}
+button{
+color: red;
+background-color: burlywood;
+}
+
+p{
+color: blue;
+background: palegreen;
+}

@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+    font-weight: 400 ;
+    text-decoration:green wavy underline;
+    letter-spacing:15px ;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: sans-serif;
+    
+
+}
+
+./a{
+    text-decoration: none;
+    color: black;
+}./
+p{
+    line-height: 2;
+}
+
+./#signup{
+    color: #e9c46a;
+    background-color: blueviolet;
+    font-size: 40px;
+}./
+
+.tag{
+    background-color: #e63946;
+    color: #a8dadc;
+    font-size: 20px;
+}
+p a{
+    color: green;
+
+}
+
+input + button{
+    background-color: yellow;
+}
+
+h2 + button{
+    background-color: violet;
+    font-size: 40px;
+}
+
+footer > a{
+    background-color: tomato;
+}
+
+input[type="password"]{
+color: red;
+}
+
+a[href="google.com"]{
+    color: saddlebrown;
+}
+
+button:hover {
+background-color: rgb(25, 10, 231);
+color: papayawhip;
+}
+
+button:active{
+    background-color: powderblue;
+}
+
+.post:nth-of-type(2){
+    background-color:powderblue;
+}
+
+h2:first-letter{
+    font-size: 50px;
+}
+
+p:first-line{
+color: blue;
+}
+
+p::selection{
+    background-color: chartreuse;
+}
